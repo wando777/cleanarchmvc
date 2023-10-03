@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{54F1979E-1139-4DF3-A95E-08C9FA37DC98}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.WebUI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchDomain.Tests/CategoryUnitTest1.cs">
+    <Files>
+      <File FileName="CleanArchDomain.Tests/UnitTest1.cs" Line="11" Column="67" />
+      <File FileName="CleanArchMvc.Domain/Entities/Category.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanArchMvc" expanded="True">
+            <Node name="CleanArchMvc.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Validation" expanded="True" />
+            </Node>
+            <Node name="CleanArchMvc.Domain.Tests" expanded="True">
+              <Node name="CategoryUnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CleanArchMvc" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

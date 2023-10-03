@@ -1,0 +1,12 @@
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/bin/Debug/net7.0/CleanArchMvc.Domain.deps.json
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.csproj.AssemblyReference.cache
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.AssemblyInfoInputs.cache
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.AssemblyInfo.cs
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/refint/CleanArchMvc.Domain.dll
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/Debug/net7.0/ref/CleanArchMvc.Domain.dll

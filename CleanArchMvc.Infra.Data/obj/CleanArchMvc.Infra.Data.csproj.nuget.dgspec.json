@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "projectName": "CleanArchMvc.Domain",
+        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "packagesPath": "/Users/wando/.nuget/packages/",
+        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wando/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "projectName": "CleanArchMvc.Infra.Data",
+        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "/Users/wando/.nuget/packages/",
+        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/wando/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
