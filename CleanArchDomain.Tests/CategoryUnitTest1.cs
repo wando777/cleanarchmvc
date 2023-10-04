@@ -40,7 +40,7 @@ public class CategoryUnitTest1
     [Fact]
     public void CreateCategory_WithNullNameValue_DomainExceptionInvalidName()
     {
-        Action action = () => new Category(1, null);
+        Action action = () => new Category(1, null!);
         action.Should()
             .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
     }

@@ -13,3 +13,5 @@
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/Debug/net7.0/refint/CleanArchMvc.Infra.Data.dll
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/Debug/net7.0/CleanArchMvc.Infra.Data.pdb
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/Debug/net7.0/ref/CleanArchMvc.Infra.Data.dll
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/bin/Debug/net7.0/CleanArchMvc.Infra.Data.runtimeconfig.json
+/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/Debug/net7.0/CleanArchMvc.Infra.Data.genruntimeconfig.cache
