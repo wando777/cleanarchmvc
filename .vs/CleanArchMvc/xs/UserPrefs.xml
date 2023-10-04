@@ -1,20 +1,27 @@
 ﻿<Properties StartupConfiguration="{C7CBB9F3-8F3A-4BB6-8975-587972702963}|Default">
-  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchMvc.Infra.Data/Context/ApplicationDbContext.cs">
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchDomain.Tests/CategoryUnitTest1.cs">
     <Files>
-      <File FileName="CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" Line="6" Column="30" />
-      <File FileName="CleanArchMvc.Infra.Data/Context/ApplicationDbContext.cs" Line="24" Column="1" />
+      <File FileName="CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" />
+      <File FileName="CleanArchMvc.Infra.Data/Context/ApplicationDbContext.cs" Line="19" Column="1" />
+      <File FileName="CleanArchMvc.Infra.Data/EntitiesConfiguration/ProductConfiguration.cs" Line="23" Column="1" />
+      <File FileName="CleanArchMvc.Infra.Data/EntitiesConfiguration/CategoryConfiguration.cs" Line="21" Column="40" />
+      <File FileName="CleanArchDomain.Tests/CategoryUnitTest1.cs" Line="43" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CleanArchMvc">
             <Node name="CleanArchMvc.Domain" expanded="True" />
+            <Node name="CleanArchMvc.Domain.Tests" expanded="True" />
             <Node name="CleanArchMvc.Infra.Data" expanded="True">
               <Node name="Context" expanded="True" />
+              <Node name="EntitiesConfiguration" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +33,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
