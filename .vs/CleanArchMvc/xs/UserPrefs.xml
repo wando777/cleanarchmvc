@@ -1,37 +1,29 @@
-﻿<Properties StartupConfiguration="{C7CBB9F3-8F3A-4BB6-8975-587972702963}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{54F1979E-1139-4DF3-A95E-08C9FA37DC98}|https">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchDomain.Tests/CategoryUnitTest1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchMvc.WebUI/appsettings.json">
     <Files>
-      <File FileName="CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj" />
-      <File FileName="CleanArchMvc.Infra.Data/Context/ApplicationDbContext.cs" Line="19" Column="1" />
-      <File FileName="CleanArchMvc.Infra.Data/EntitiesConfiguration/ProductConfiguration.cs" Line="23" Column="1" />
-      <File FileName="CleanArchMvc.Infra.Data/EntitiesConfiguration/CategoryConfiguration.cs" Line="21" Column="40" />
-      <File FileName="CleanArchDomain.Tests/CategoryUnitTest1.cs" Line="43" Column="9" />
+      <File FileName="CleanArchMvc.Infra.IoC/DependencyInjection.cs" />
+      <File FileName="CleanArchMvc.WebUI/Program.cs" />
+      <File FileName="CleanArchMvc.WebUI/appsettings.json" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CleanArchMvc">
-            <Node name="CleanArchMvc.Domain" expanded="True" />
-            <Node name="CleanArchMvc.Domain.Tests" expanded="True" />
-            <Node name="CleanArchMvc.Infra.Data" expanded="True">
-              <Node name="Context" expanded="True" />
-              <Node name="EntitiesConfiguration" expanded="True" />
+          <Node name="CleanArchMvc" expanded="True">
+            <Node name="CleanArchMvc.Infra.IoC" expanded="True" />
+            <Node name="CleanArchMvc.WebUI" expanded="True">
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="CleanArchMvc" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.WebUI PreferredExecutionTarget="/Applications/Brave Browser.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
