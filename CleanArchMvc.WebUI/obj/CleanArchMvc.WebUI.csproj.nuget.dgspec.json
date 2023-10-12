@@ -1,34 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj": {}
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {}
   },
   "projects": {
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj": {
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj",
+        "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
         "projectName": "CleanArchMvc.Application",
-        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj",
-        "packagesPath": "/Users/wando/.nuget/packages/",
-        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/obj/",
+        "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+        "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wando/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -58,28 +59,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
         "projectName": "CleanArchMvc.Domain",
-        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
-        "packagesPath": "/Users/wando/.nuget/packages/",
-        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/",
+        "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wando/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -112,35 +114,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
         "projectName": "CleanArchMvc.Infra.Data",
-        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
-        "packagesPath": "/Users/wando/.nuget/packages/",
-        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/obj/",
+        "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wando/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               }
             }
           }
@@ -182,41 +185,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj": {
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
         "projectName": "CleanArchMvc.Infra.IoC",
-        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj",
-        "packagesPath": "/Users/wando/.nuget/packages/",
-        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/obj/",
+        "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wando/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/CleanArchMvc.Application.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj"
               },
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
               },
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -246,36 +250,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj": {
+    "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
         "projectName": "CleanArchMvc.WebUI",
-        "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
-        "packagesPath": "/Users/wando/.nuget/packages/",
-        "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.WebUI/obj/",
+        "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+        "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/wando/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj": {
-                "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/CleanArchMvc.Infra.IoC.csproj"
+              "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
               }
             }
           }
@@ -308,7 +312,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

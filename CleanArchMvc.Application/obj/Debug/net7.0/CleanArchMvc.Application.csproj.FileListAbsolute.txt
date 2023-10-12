@@ -13,3 +13,18 @@
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/obj/Debug/net7.0/refint/CleanArchMvc.Application.dll
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.pdb
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Application/obj/Debug/net7.0/ref/CleanArchMvc.Application.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.deps.json
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\refint\CleanArchMvc.Application.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net7.0\ref\CleanArchMvc.Application.dll

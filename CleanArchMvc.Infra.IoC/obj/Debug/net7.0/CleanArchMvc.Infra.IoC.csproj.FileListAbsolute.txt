@@ -17,3 +17,22 @@
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/refint/CleanArchMvc.Infra.IoC.dll
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
 /Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Infra.IoC/obj/Debug/net7.0/ref/CleanArchMvc.Infra.IoC.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.deps.json
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Application.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Application.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\refint\CleanArchMvc.Infra.IoC.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\ref\CleanArchMvc.Infra.IoC.dll

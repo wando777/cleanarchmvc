@@ -8,26 +8,27 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/wando/.nuget/packages/": {}
+    "C:\\Users\\wande\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
       "projectName": "CleanArchMvc.Domain",
-      "projectPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
-      "packagesPath": "/Users/wando/.nuget/packages/",
-      "outputPath": "/Users/wando/Desktop/Projects/cleanarchmvc/CleanArchMvc.Domain/obj/",
+      "projectPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+      "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wande\\OneDrive\\Área de Trabalho\\MyProjects\\CleanArchMvc\\CleanArchMvc.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/wando/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://main-053131491888.d.codeartifact.us-east-1.amazonaws.com/nuget/nuget/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
