@@ -154,3 +154,8 @@ C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.W
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net7.0\CleanArchMvc.WebUI.pdb
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net7.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net7.0\ref\CleanArchMvc.WebUI.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\System.CodeDom.dll
