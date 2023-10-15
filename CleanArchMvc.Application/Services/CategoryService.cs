@@ -1,12 +1,8 @@
 ﻿using AutoMapper;
 using CleanArchMvc.Application.DTOs;
 using CleanArchMvc.Application.Interfaces;
+using CleanArchMvc.Domain.Entities;
 using CleanArchMvc.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.Services
 {
@@ -21,29 +17,34 @@ namespace CleanArchMvc.Application.Services
             _mapper = mapper;
         }
 
-        public Task AddCategoryAsync(CategoryDTO categoryDTO)
+        public async Task<CategoryDTO> GetByID(int? id)
         {
-            throw new NotImplementedException();
+            var categoryEntity = await _categoryRepository.GetByIdAsync(id);
+            return _mapper.Map<CategoryDTO>(categoryEntity);
         }
 
-        public Task<CategoryDTO> GetByID(int? id)
+        public async Task<IEnumerable<CategoryDTO>> GetCategoriesAsync()
         {
-            throw new NotImplementedException();
+            var categoriesEntity = await _categoryRepository.GetCategoriesAsync();
+            return _mapper.Map<IEnumerable<CategoryDTO>>(categoriesEntity);
         }
 
-        public Task<IEnumerable<CategoryDTO>> GetCategoriesAsync()
+        public async Task AddCategoryAsync(CategoryDTO categoryDTO)
         {
-            throw new NotImplementedException();
+            var categoryEntity = _mapper.Map<Category>(categoryDTO);
+            await _categoryRepository.CreateAsync(categoryEntity);
         }
 
-        public Task RemoveCategoryAsync(int? id)
+        public async Task RemoveCategoryAsync(int? id)
         {
-            throw new NotImplementedException();
+            var categoryEntity = _categoryRepository.GetByIdAsync(id).Result;
+            await _categoryRepository.RemoveAsync(categoryEntity);
         }
 
-        public Task UpdateCategoryAsync(CategoryDTO categoryDTO)
+        public async Task UpdateCategoryAsync(CategoryDTO categoryDTO)
         {
-            throw new NotImplementedException();
+            var categoryEntity = _mapper.Map<Category>(categoryDTO);
+            await _categoryRepository.UpdateAsync(categoryEntity);
         }
     }
 }
