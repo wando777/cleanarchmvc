@@ -11,7 +11,7 @@ namespace CleanArchMvc.Application.DTOs
         [Required(ErrorMessage = "The name is required")]
         [MinLength(3)]
         [MaxLength(100)]
-        public int Name { get; set; }
+        public string Name { get; set; }
 
         [Required(ErrorMessage = "The description is required")]
         [MinLength(5)]
@@ -20,7 +20,7 @@ namespace CleanArchMvc.Application.DTOs
 
         [Required(ErrorMessage = "The price is required")]
         [Column(TypeName = "decimal(18,2)")]
-        [DisplayFormat(DataFormatString = "{0:C2")]
+        [DisplayFormat(DataFormatString = "{0:C2}")]
         [DataType(DataType.Currency)]
         [DisplayName("Price")]
         public decimal Price { get; set; }

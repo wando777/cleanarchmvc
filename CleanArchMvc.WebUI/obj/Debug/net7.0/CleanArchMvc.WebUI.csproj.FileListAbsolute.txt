@@ -159,3 +159,5 @@ C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.W
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\wande\OneDrive\Área de Trabalho\MyProjects\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
