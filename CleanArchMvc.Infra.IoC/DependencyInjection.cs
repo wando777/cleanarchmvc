@@ -24,6 +24,9 @@ public static class DependencyInjection
         services.AddScoped<ICategoryService, CategoryService>();
         services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 
+        var myhandler = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
+        services.AddMediatR(myhandler);
+
         return services;
     }
 }
